@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/jiahaoliu/Documents/Lectures/projects/FullStackProject/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+170345931.index
+1335502609.index
+2563083955.index
+1694237855.index
+3054808569.index
+3026521838.index
+583484942.index
